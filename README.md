@@ -3,7 +3,7 @@
 <h3 align="center">Analista de Datos & Desarrollador Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=0078D4&center=true&vCenter=true&width=800&lines=Analista+de+Datos+%26+Desarrollador+Full+Stack" alt="Analista de Datos y Desarrollador Full Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&height=40&lines=Analista+de+Datos+%26+Desarrollador+Full+Stack;Dashboards%3A+Power+BI+%2F+DAX;Bases+de+datos%3A+SQL+%2F+PostgreSQL+%2F+MySQL;Python%3A+Pandas+%2F+NumPy+%2F+Scikit-Learn;Modelos+predictivos%3A+Forecasting+%2F+XGBoost;ETL+y+EDA%3A+limpieza+y+an%C3%A1lisis+de+datos;Backend%3A+Node.js+%2F+PHP;Frontend%3A+HTML+%2F+CSS+%2F+TypeScript" alt="Habilidades"/>
 </p>
 
 <p align="center">
