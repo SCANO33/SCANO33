@@ -24,7 +24,7 @@ Analista de Datos y Desarrollador Full Stack apasionado por convertir datos en d
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Python para datos y ML
+### Analisis Estadistico y Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -65,18 +65,6 @@ Analista de Datos y Desarrollador Full Stack apasionado por convertir datos en d
 - **EDA:** análisis exploratorio para encontrar patrones, anomalías y problemas de calidad en los datos
 - **Modelos predictivos:** forecasting y regresión/clasificación con Scikit-Learn y XGBoost
 - **Documentación y control de calidad:** validación de datos y documentación técnica de las soluciones que desarrollo
-
----
-
-## 🧑‍💻 Experiencia
-
-- **Analista de Datos, Agua Clara H2O** (dic. 2025 – ago. 2026), remoto: Power BI, DAX, SQL, ETL, Python (forecasting) y EDA
-- **Analista de Datos, E&C Ingeniería S.A.S** (abr. – oct. 2025): reportes y ETL sobre datos de inspección de redes de gas
-
-## 🎓 Formación
-
-- Ciencia de Datos, Instituto Tecnológico Metropolitano (ITM), en curso
-- Técnica en Análisis de Datos, SENA (2024 – 2025)
 
 ---
 
