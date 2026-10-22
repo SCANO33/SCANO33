@@ -3,7 +3,7 @@
 <h3 align="center">Analista de Datos & Desarrollador Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Analista+de+Datos+%7C+Power+BI+%2B+DAX+%2B+SQL;Desarrollador+Full+Stack+%7C+Node.js+%2B+PHP;Python+para+datos%3A+Pandas+%2F+Scikit-Learn+%2F+XGBoost;ETL%2C+EDA+y+modelos+predictivos" alt="Analista de Datos y Desarrollador Full Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=0078D4&center=true&vCenter=true&width=800&lines=Analista+de+Datos+%26+Desarrollador+Full+Stack" alt="Analista de Datos y Desarrollador Full Stack"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
 
 Analista de Datos y Desarrollador Full Stack apasionado por convertir datos en decisiones y crear soluciones digitales eficientes y escalables. Transformo datos en dashboards, reportes y modelos que resuelven problemas reales. Complementariamente, desarrollo aplicaciones web con Node.js y PHP, y trabajo con procesos ETL, análisis exploratorio (EDA) y modelos predictivos en Python, lo que agrega profundidad al análisis, la validación y la documentación de las soluciones que desarrollo: desde la limpieza de los datos hasta la aplicación que los presenta.
 
- Actualmente Estudio Ciencia de Datos en el ITM y anteriormente me gradue como Tecnico en analisis de datos fortaleciendo cada dia de manera autodidacta mis conocimientos asi como adquiriendo muchos mas para avanzar y desarrollarme Como Cientifico de datos.
 ---
 
 ## 🛠️ Tech Stack
@@ -70,5 +69,5 @@ Analista de Datos y Desarrollador Full Stack apasionado por convertir datos en d
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scano33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL)
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scanoortiz33@outlook.com)
